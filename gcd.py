@@ -11,4 +11,4 @@ def gcdp(a,b):
             return i
     return 1
 
-print gcdp(17,147)
+print gcdp(int(raw_input("enter a")),int(raw_input("enter b")))
